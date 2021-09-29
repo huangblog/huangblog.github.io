@@ -1,8 +1,8 @@
 @font-face {
-  font-family: "iconfont"; /* Project id 2824122 */
-  src: url('//at.alicdn.com/t/font_2824122_h2njq1mr9sh.woff2?t=1632754586232') format('woff2'),
-       url('//at.alicdn.com/t/font_2824122_h2njq1mr9sh.woff?t=1632754586232') format('woff'),
-       url('//at.alicdn.com/t/font_2824122_h2njq1mr9sh.ttf?t=1632754586232') format('truetype');
+  font-family: "iconfont"; /* Project id 2844129 */
+  src: url('iconfont.woff2?t=1632915767436') format('woff2'),
+       url('iconfont.woff?t=1632915767436') format('woff'),
+       url('iconfont.ttf?t=1632915767436') format('truetype');
 }
 
 .iconfont {
@@ -13,67 +13,81 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-.icon-liaotian:before {
-  content: "\e63f";
+.icon-reqiqiu:before {
+  content: "\e62b";
 }
 
-.icon-bilibili-line:before {
-  content: "\e66d";
+.icon-shenghuofuwu:before {
+  content: "\e61c";
 }
 
-.icon-shipin:before {
-  content: "\f7fb";
-}
-
-.icon-rili:before {
-  content: "\e608";
-}
-
-.icon-liuyan:before {
-  content: "\e835";
+.icon-fenlei:before {
+  content: "\e613";
 }
 
 .icon-zhuye:before {
-  content: "\e666";
+  content: "\e601";
 }
 
-.icon-hourglass-01:before {
-  content: "\e6f1";
+.icon-liuyanban:before {
+  content: "\e61b";
 }
 
-.icon-kafei:before {
-  content: "\e646";
+.icon-huabanfuben:before {
+  content: "\e696";
 }
 
-.icon-biaoqian1:before {
-  content: "\f674";
+.icon-guanyu:before {
+  content: "\e643";
 }
 
-.icon-xiangce1:before {
-  content: "\e60c";
+.icon-bilibili:before {
+  content: "\e619";
+  font-size: 30px;
 }
 
-.icon-shipinbofang:before {
+.icon-liuyan:before {
+  content: "\e602";
+}
+
+.icon-yinle:before {
+  content: "\e60f";
+}
+
+.icon-41shuoshuo:before {
   content: "\e600";
 }
 
-.icon-xiangce2:before {
-  content: "\e6ab";
+.icon-wangyiyunyinle1:before {
+  content: "\e603";
+  font-size: 30px;
 }
 
-.icon-github:before {
-  content: "\e628";
+.icon-tupian:before {
+  content: "\efef";
 }
 
-.icon-QQ-circle-fill:before {
-  content: "\e887";
-}
-
-.icon-xiangce:before {
-  content: "\e6a0";
+.icon-partner-active:before {
+  content: "\e604";
 }
 
 .icon-biaoqian:before {
-  content: "\e607";
+  content: "\f674";
+}
+
+.icon-shipin:before {
+  content: "\f683";
+}
+
+.icon-tupian1:before {
+  content: "\f7fa";
+}
+
+.icon-shipin1:before {
+  content: "\f7fb";
+}
+
+.icon-yaoqingxiaohuoban-01:before {
+  content: "\e605";
 }
 
