@@ -27,6 +27,11 @@ div#category{
   background: rgba(255, 255, 255, 0.9);
 }
 
+/* 页脚透明 */
+#footer{
+  background: transparent!important;
+}
+
 /* 头图透明 */
 #page-header{
   background: transparent!important;
