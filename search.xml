@@ -343,29 +343,6 @@
     
     
     <entry>
-      <title>CSS 背景样式和文本样式</title>
-      <link href="/2021/08/20/CSS%20%E8%83%8C%E6%99%AF%E6%A0%B7%E5%BC%8F%E5%92%8C%E6%96%87%E6%9C%AC%E6%A0%B7%E5%BC%8F/"/>
-      <url>/2021/08/20/CSS%20%E8%83%8C%E6%99%AF%E6%A0%B7%E5%BC%8F%E5%92%8C%E6%96%87%E6%9C%AC%E6%A0%B7%E5%BC%8F/</url>
-      
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h2 id="CSS-背景样式和文本样式"><a href="#CSS-背景样式和文本样式" class="headerlink" title="CSS 背景样式和文本样式"></a>CSS 背景样式和文本样式</h2><h3 id="CSS-背景属性（background）"><a href="#CSS-背景属性（background）" class="headerlink" title="CSS 背景属性（background）"></a>CSS 背景属性（background）</h3><p><a href="https://imgtu.com/i/hj2uuD"><img src="https://z3.ax1x.com/2021/09/10/hj2uuD.png" alt="hj2uuD.png"></a></p><h3 id="CSS-文本属性"><a href="#CSS-文本属性" class="headerlink" title="CSS 文本属性"></a>CSS 文本属性</h3><p><a href="https://imgtu.com/i/hj2D5n"><img src="https://z3.ax1x.com/2021/09/10/hj2D5n.png" alt="hj2D5n.png"></a></p><h3 id="CSS3-新增常用标签简介"><a href="#CSS3-新增常用标签简介" class="headerlink" title="CSS3 新增常用标签简介"></a>CSS3 新增常用标签简介</h3><p>​    CSS3是CSS技术的升级版本，CSS3语言开发是朝着<strong>模块化发展</strong>；网络浏览器也还将继续支持CSS2。<strong>CSS3主要的影响是将可以使用新的可用的选择器和属性</strong>。</p><p>•圆角边框：border-radius </p><p>•边框阴影：box-shadow</p><p>•背景图片的尺寸：background-size</p><p>•文本阴影：text-shadow</p>]]></content>
-      
-      
-      <categories>
-          
-          <category> 代码练习 </category>
-          
-          <category> 前端 </category>
-          
-          <category> HTML/CSS笔记 </category>
-          
-      </categories>
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>DIV块级元素/span行内元素</title>
       <link href="/2021/08/20/DIV%E5%9D%97%E7%BA%A7%E5%85%83%E7%B4%A0span%E8%A1%8C%E5%86%85%E5%85%83%E7%B4%A0/"/>
       <url>/2021/08/20/DIV%E5%9D%97%E7%BA%A7%E5%85%83%E7%B4%A0span%E8%A1%8C%E5%86%85%E5%85%83%E7%B4%A0/</url>
@@ -389,6 +366,29 @@
             <tag> div </tag>
             
         </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>CSS 背景样式和文本样式</title>
+      <link href="/2021/08/20/CSS%20%E8%83%8C%E6%99%AF%E6%A0%B7%E5%BC%8F%E5%92%8C%E6%96%87%E6%9C%AC%E6%A0%B7%E5%BC%8F/"/>
+      <url>/2021/08/20/CSS%20%E8%83%8C%E6%99%AF%E6%A0%B7%E5%BC%8F%E5%92%8C%E6%96%87%E6%9C%AC%E6%A0%B7%E5%BC%8F/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h2 id="CSS-背景样式和文本样式"><a href="#CSS-背景样式和文本样式" class="headerlink" title="CSS 背景样式和文本样式"></a>CSS 背景样式和文本样式</h2><h3 id="CSS-背景属性（background）"><a href="#CSS-背景属性（background）" class="headerlink" title="CSS 背景属性（background）"></a>CSS 背景属性（background）</h3><p><a href="https://imgtu.com/i/hj2uuD"><img src="https://z3.ax1x.com/2021/09/10/hj2uuD.png" alt="hj2uuD.png"></a></p><h3 id="CSS-文本属性"><a href="#CSS-文本属性" class="headerlink" title="CSS 文本属性"></a>CSS 文本属性</h3><p><a href="https://imgtu.com/i/hj2D5n"><img src="https://z3.ax1x.com/2021/09/10/hj2D5n.png" alt="hj2D5n.png"></a></p><h3 id="CSS3-新增常用标签简介"><a href="#CSS3-新增常用标签简介" class="headerlink" title="CSS3 新增常用标签简介"></a>CSS3 新增常用标签简介</h3><p>​    CSS3是CSS技术的升级版本，CSS3语言开发是朝着<strong>模块化发展</strong>；网络浏览器也还将继续支持CSS2。<strong>CSS3主要的影响是将可以使用新的可用的选择器和属性</strong>。</p><p>•圆角边框：border-radius </p><p>•边框阴影：box-shadow</p><p>•背景图片的尺寸：background-size</p><p>•文本阴影：text-shadow</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 代码练习 </category>
+          
+          <category> 前端 </category>
+          
+          <category> HTML/CSS笔记 </category>
+          
+      </categories>
+      
       
     </entry>
     
